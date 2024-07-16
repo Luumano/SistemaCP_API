@@ -1,166 +1,199 @@
-/* style.css */
-
-/* Estilo geral */
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
-    margin: 0;
-    padding: 0;
+body{
+    font-family: Arial, sans-serif;
+    background: #fbfbfb;
+    -webkit-font-smoothing: antialiased !important;
 }
 
-.container {
+.main{
     max-width: 900px;
     margin: 0 auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
 }
 
-h1, h2 {
-    text-align: center;
-    color: #343a40;
+div.novo{
+    margin-right: 20px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 30px;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.2);
 }
 
-h1 {
-    margin-bottom: 40px;
-}
-
-.btn-center {
+.container{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
-.alert {
-    text-align: center;
+.novo, .lista{
+    width: 48%;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 1px 0 3px rgba(0 , 0, 0, 0.2);
 }
 
-/* Estilo do formulário */
-#productForm .form-group {
+.lista {
+    background: #F0F0F0;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.lista h2{
+    font-weight: 700;
+    font-size: 24px;
+    color: #333;
     margin-bottom: 15px;
 }
 
-#productForm .form-control {
-    border-radius: 4px;
-    border: 1px solid #ced4da;
+h1{
+    font-weight: 900;
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 10px;
 }
 
-#productForm .btn {
-    background-color: #17a2b8;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
+.main form{
+    width: 100%;
+}
+
+.main form div.field{
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.main form div.field input{
+    width: 90%;
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+    outline: none;
+}
+
+.main form div.field strong{
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.main form div.field input:focus{
+    border-color: #23A0FF;
+}
+
+.main form div.form-group{
+    margin-bottom: 20px;
+}
+
+.main form div.form-group label{
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.main form div.form-group select{
+    width: 90%;
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+    outline: none;
+}
+
+.main form div.form-group select:focus{
+    border-color: #23A0FF;
+}
+ 
+main div.btn-actions{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+main div.btn-actions button{
+    width: 200px;
+    padding: 12px;
+    font-weight: 700;
+    font-size: 18px;
     color: #fff;
+    background: #23A0FF;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.field input:focus {
+    border-color: #23a0ff;
+}
+
+.btn-actions button:hover {
+    background: #0990f7;
+}
+
+#lista-produto {
+    margin-top: 20px;
+}
+
+.product-item {
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    flex-direction: column;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.delete-btn {
+    background-color: #ff3333;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
-#productForm .btn:hover {
-    background-color: #138496;
+.edite-btn{
+    margin-right: 5px;
+    background-color: #257013;
+    color: rgb(241, 239, 239);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
-/* Estilo da tabela */
-.table-responsive {
-    margin-top: 40px;
+@media only screen and (max-width: 700px){
+.container {
+    flex-direction: column;
+    padding: 0 10px;
 }
 
-.table {
-    margin-bottom: 0;
+.novo, .lista{
+    width: 100%;
+    margin-bottom: 20px;
 }
 
-.table th, .table td {
+.main form div.field input{
+    width: calc(100% - 20px);
+}
+
+main div.btn-actions button{
+    width: (100% - 20px);
+}
+
+.main form div.field strong{
+    font-size: 16px;
+}
+
+.novo, .lista{
+    order: 2;
+}
+
+#toggle{
+    display: block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 20px;
 }
-
-.table th {
-    background-color: #343a40;
-    color: #fff;
-    border-top: none;
-}
-
-.table tbody tr:nth-child(odd) {
-    background-color: #f2f2f2;
-}
-
-.table tbody tr:nth-child(even) {
-    background-color: #e9ecef;
-}
-
-.table td {
-    border-top: none;
-}
-
-/* Estilo dos botões */
-.btn-warning {
-    background-color: #ffc107;
-    border: none;
-}
-
-.btn-warning:hover {
-    background-color: #e0a800;
-}
-
-.btn-danger {
-    background-color: #dc3545;
-    border: none;
-}
-
-.btn-danger:hover {
-    background-color: #c82333;
-}
-
-/* Estilo do modal de edição */
-.modal-header {
-    background-color: #17a2b8;
-    color: #fff;
-}
-
-.modal-header .close {
-    color: #fff;
-}
-
-.modal-content {
-    border-radius: 8px;
-}
-
-.modal-footer .btn-secondary {
-    background-color: #6c757d;
-    border: none;
-}
-
-.modal-footer .btn-secondary:hover {
-    background-color: #5a6268;
-}
-
-.modal-footer .btn-success {
-    background-color: #28a745;
-    border: none;
-}
-
-.modal-footer .btn-success:hover {
-    background-color: #218838;
-}
-
-.modal-body .form-group {
-    margin-bottom: 15px;
-}
-
-.modal-body .form-control {
-    border-radius: 4px;
-    border: 1px solid #ced4da;
-}
-
-@media (max-width: 576px) {
-    .container {
-        padding: 10px;
-    }
-
-    .btn-center {
-        flex-direction: column;
-    }
-
-    .btn-center .btn {
-        margin-bottom: 10px;
-        width: 100%;
-    }
 }
