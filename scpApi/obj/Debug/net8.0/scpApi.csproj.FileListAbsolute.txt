@@ -1,0 +1,72 @@
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\scpApi.exe
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\scpApi.deps.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\scpApi.runtimeconfig.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\scpApi.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\scpApi.pdb
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.csproj.AssemblyReference.cache
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.AssemblyInfoInputs.cache
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.AssemblyInfo.cs
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.csproj.CoreCompileInputs.cache
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.scpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.build.scpApi.props
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.scpApi.props
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.scpApi.props
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scopedcss\bundle\scpApi.styles.css
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.csproj.Up2Date
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\refint\scpApi.dll
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.pdb
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\scpApi.genruntimeconfig.cache
+C:\Users\Vicente Neto\Desktop\dsw\scpApi\obj\Debug\net8.0\ref\scpApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\appsettings.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\scpApi.exe
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\scpApi.deps.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\scpApi.runtimeconfig.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\scpApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\scpApi.pdb
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.csproj.AssemblyReference.cache
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.AssemblyInfoInputs.cache
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.AssemblyInfo.cs
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.scpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.build.scpApi.props
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.scpApi.props
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.scpApi.props
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scopedcss\bundle\scpApi.styles.css
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.csproj.Up2Date
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\refint\scpApi.dll
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.pdb
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\scpApi.genruntimeconfig.cache
+C:\Users\mgerm\SCP-API-JS-main\scpApi\obj\Debug\net8.0\ref\scpApi.dll
