@@ -1,0 +1,6 @@
+@SistemaSCP_API_HostAddress = http://localhost:5290
+
+GET {{SistemaSCP_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

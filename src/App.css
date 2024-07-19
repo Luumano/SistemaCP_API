@@ -1,0 +1,220 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #fbfbfb;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.form-produtos{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.form-produtos{
+    margin-right: 20px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 30px;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.form-produtos{
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.form-produtos, .lista-produto{
+    width: 48%;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 1px 0 3px rgba(0 , 0, 0, 0.2);
+}
+
+.lista-produto {
+    background: #F0F0F0;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.lista-produto h2{
+    font-weight: 700;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.form-produtos h1{
+    font-weight: 900;
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.form-produtos{
+    width: 100%;
+}
+
+.form-produtos form div.field{
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.form-produtos form div.field input{
+    width: 90%;
+    background: transparent;
+    border: 1px solid #4d4b4b;
+    border-radius: 4px;
+    padding: 10px;
+    outline: none;
+}
+
+.form-produtos form div.field strong{
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.form-produtos form div.field input:focus{
+    border-color: #23A0FF;
+}
+ 
+.form-produtos .btn-actions{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-produtos div.btn-actions button{
+    width: 200px;
+    padding: 12px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    background: #23A0FF;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.field select{
+    display: flex;
+    width: 95%;
+    padding: 10px 15px;
+    background-color: #23A0FF;
+    color: #FFF;
+    font-size: 14px;
+    cursor: pointer; 
+}
+
+.field input:focus {
+    border-color: #23a0ff;
+}
+
+.btn-actions button:hover {
+    background: #0990f7;
+}
+
+#lista-produto {
+    margin-top: 20px;
+}
+
+.product-item {
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    flex-direction: column;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.delete-btn {
+    background-color: #ff3333;
+    color: #FFF;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.edite-btn{
+    margin-left: 8px;
+    background-color: #257013;
+    color: rgb(241, 239, 239);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.mensagem-sucesso{
+    background-color: rgba(0, 128, 0, 0.5);
+    color: #FFF;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    width: 90%;
+}
+
+.mensagem-sucesso.hide{
+    opacity: 0;
+}
+
+@media only screen and (max-width: 700px){
+    .form-produtos {
+        flex-direction: column;
+        padding: 0 10px;
+    }
+
+    .form-produtos, .lista-produto{
+        width: calc(100% - 30px);
+        margin: 0;
+        padding: 15px;
+    }
+
+    .form-produtos form div.field input,
+    .form-produtos form div.field select,
+    .form-produtos form div.field-imagem label{
+        width: calc(100% - 30px);
+        margin-right: 15px;
+    }
+    
+    .form-produtos div.btn-actions button{
+        width: (100% - 30px);
+    }
+
+    .form-produtos form div.field strong{
+        font-size: 16px;
+    }
+
+    .form-produtos, .lista-produto{
+        order: 2;
+    }
+
+    #toggle{
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .mensagem-sucesso {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    #lista-produto{
+        margin-top: 20px;
+        width: 100%;
+    }
+
+}
